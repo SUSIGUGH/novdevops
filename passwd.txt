@@ -1,0 +1,73 @@
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+operator:x:11:0:operator:/root:/sbin/nologin
+games:x:12:100:games:/usr/games:/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:x:99:99:Nobody:/:/sbin/nologin
+systemd-network:x:192:192:systemd Network Management:/:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin
+libstoragemgmt:x:999:998:daemon account for libstoragemgmt:/var/run/lsm:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+rngd:x:998:996:Random Number Generator Daemon:/var/lib/rngd:/sbin/nologin
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+ec2-instance-connect:x:997:995::/home/ec2-instance-connect:/sbin/nologin
+rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin
+chrony:x:996:994::/var/lib/chrony:/sbin/nologin
+tcpdump:x:72:72::/:/sbin/nologin
+ec2-user:x:1000:1000:EC2 Default User:/home/ec2-user:/bin/bash
+nssstd01:x:2501:2501::/home/nssstd01:/bin/bash
+nishan:x:2502:2502::/home/nishan:/bin/bash
+yugen:x:2503:2502::/home/yugen:/bin/bash
+sabin:x:2504:2504::/home/sabin:/bin/bash
+susigugh:x:2505:2501::/home/susigugh:/bin/bash
+prakash:x:2507:2501::/home/prakash:/bin/bash
+prakashn:x:2508:2508::/home/prakashn:/bin/bash
+samuel:x:3000:2501::/home/samuel:/bin/bash
+suman:x:3001:2501::/home/suman:/bin/bash
+jeena:x:3002:2501::/home/jeena:/bin/bash
+aadarsh:x:3003:2501::/home/aadarsh:/bin/bash
+prakash1:x:3004:2501::/home/prakash1:/bin/bash
+yubraj:x:3005:2501::/home/yubraj:/bin/bash
+pukar:x:3007:2501::/home/pukar:/bin/bash
+pravakar:x:3008:2501::/home/pravakar:/bin/bash
+dipesh:x:3010:2501::/home/dipesh:/bin/bash
+sachin:x:3011:2501::/home/sachin:/bin/bash
+mohan:x:3012:2501::/home/mohan:/bin/bash
+saroj:x:3013:2501::/home/saroj:/bin/bash
+ram:x:3014:2501::/home/ram:/bin/bash
+rakesh:x:3015:2501::/home/rakesh:/bin/bash
+tstusr:x:3016:2501::/home/tstusr:/bin/bash
+hemlal:x:3017:2501::/home/hemlal:/bin/bash
+akshay:x:3018:2501::/home/akshay:/bin/bash
+kamal:x:3019:2501::/home/kamal:/bin/bash
+anu:x:3020:2501::/home/anu:/bin/bash
+durga:x:3021:2501::/home/durga:/bin/bash
+pratik:x:3022:2501::/home/pratik:/bin/bash
+nsscomjul02:x:3101:2501::/home/nsscomjul02:/bin/bash
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+avijit:x:3023:2501::/home/avijit:/bin/bash
+chiran:x:3024:2501::/home/chiran:/bin/bash
+swatika:x:3025:2501::/home/swatika:/bin/bash
+ruman:x:3026:2501::/home/ruman:/bin/bash
+priyesh:x:3027:2501::/home/priyesh:/bin/bash
+prometheus:x:3102:3102::/home/prometheus:/bin/false
+durga1:x:3029:2501::/home/durga1:/bin/bash
+shristhi:x:3030:2501::/home/shristhi:/bin/bash
+shambhav:x:3031:2501::/home/shambhav:/bin/bash
+surya:x:3032:2501::/home/surya:/bin/bash
+hemraj:x:3033:2501::/home/hemraj:/bin/bash
+lekhraj:x:3034:2501::/home/lekhraj:/bin/bash
+dhanmala:x:3035:2501::/home/dhanmala:/bin/bash
+sambat:x:3036:2501::/home/sambat:/bin/bash
+srijana:x:3037:2501::/home/srijana:/bin/bash
+anita:x:3038:2501::/home/anita:/bin/bash
+chandra:x:3039:2501::/home/chandra:/bin/bash
